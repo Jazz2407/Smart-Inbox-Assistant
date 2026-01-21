@@ -1,0 +1,95 @@
+/* frontend/src/App.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  color: #2c3e50;
+  margin-bottom: 5px;
+}
+
+.loading, .error {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 50px;
+}
+
+.error { color: #e74c3c; }
+
+/* Email Card Styling */
+.email-card {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+
+.email-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.card-header {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 0.85rem;
+}
+
+.date {
+  margin-left: auto;
+  color: #95a5a6;
+}
+
+h2 {
+  font-size: 1.1rem;
+  margin: 0 0 5px 0;
+  color: #34495e;
+}
+
+.sender {
+  color: #7f8c8d;
+  font-size: 0.9rem;
+  margin: 0 0 10px 0;
+}
+
+.snippet {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+/* Badges */
+.badge {
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  color: white;
+}
+
+.badge-high { background-color: #e74c3c; }   /* Red */
+.badge-medium { background-color: #f39c12; } /* Orange */
+.badge-low { background-color: #27ae60; }    /* Green */
+.badge-default { background-color: #95a5a6; } /* Grey */
+
+.badge-label {
+  background-color: #3498db; /* Blue */
+}

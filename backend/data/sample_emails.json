@@ -1,0 +1,22 @@
+[
+  {
+    "from": "boss@company.com",
+    "subject": "Project deadline update",
+    "body": "Please finish the report by tomorrow morning."
+  },
+  {
+    "from": "amazon@amazon.in",
+    "subject": "Your order has been shipped",
+    "body": "Track your package using the link provided."
+  },
+  {
+    "from": "promo@shopping.com",
+    "subject": "Flat 50% OFF on electronics",
+    "body": "Hurry up! Sale ends tonight."
+  },
+  {
+    "from": "spam@unknown.com",
+    "subject": "You won a lottery",
+    "body": "Click here to claim your reward."
+  }
+]

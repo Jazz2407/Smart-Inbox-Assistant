@@ -4,8 +4,9 @@
 
 The Smart Inbox Assistant helps you declutter your digital life by automatically fetching emails from Gmail, summarizing them, categorizing them by priority, and generating context-aware replies using a local AI model (Llama 3.2).
 
-<img width="1046" height="604" alt="1" src="https://github.com/user-attachments/assets/5a62f767-575c-4cb6-b8b3-52d9b8d0e39c" />
 <img width="1080" height="892" alt="2" src="https://github.com/user-attachments/assets/a1a8e0ce-0557-462c-a0f7-89c2b36074d8" />
+
+<img width="1046" height="604" alt="1" src="https://github.com/user-attachments/assets/5a62f767-575c-4cb6-b8b3-52d9b8d0e39c" />
 
 
 ## 🚀 Key Features
